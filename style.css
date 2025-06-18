@@ -964,9 +964,10 @@ footer p {
     }
     .banner{
         height: 35vh;
+        padding:10px;
     }
     .banner-info h3{
-        font-size: 30px;
+        font-size: 20px;
     }
     .Recent_Projects:first-child img:last-child{
         height: 260px;
