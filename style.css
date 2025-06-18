@@ -954,6 +954,7 @@ footer p {
     }
     .Featured_Places_container{
         padding: 40px 20px;
+        flex-direction:column;
     }
     label{
         display: flex;
@@ -964,6 +965,8 @@ footer p {
     }
     .banner{
         height: 35vh;
+    }
+    .banner-info{
         padding:10px;
     }
     .banner-info h3{
@@ -980,6 +983,12 @@ footer p {
     }
     .map iframe{
         width: 100%;
+    }
+    .Featured_Places_container_title{
+        flex-direction:column;
+    }
+    .Recent_Projects_container_title{
+        flex-direction:column;
     }
     .Recent_Projects_box{
         flex-direction: column;
