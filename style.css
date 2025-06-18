@@ -989,7 +989,7 @@ footer p {
     .map iframe{
         width: 100%;
     }
-    .Featured_Places_container_title{
+    .Featured_Places_container_title,.Blog_Entries_container_title,.Contact_container_title{
         flex-direction:column;
     }
     .Recent_Projects_container_title{
